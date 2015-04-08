@@ -80,10 +80,8 @@ namespace ZendeskApi_v2.Models.Tickets
         public IList<CustomField> CustomFields { get; set; }
 
         [JsonProperty("satisfaction_rating")]
-        public SatisfactionRating SatisfactionRating { get; set; }
-
-        [JsonProperty("brand_id")]
-        public int? BrandId { get; set; }
+        public SatisfactionRating SatisfactionRating { get; set; }            
+        
       
         [JsonProperty("via")]
         public Via Via { get; set; }

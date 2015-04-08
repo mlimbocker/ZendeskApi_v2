@@ -61,6 +61,7 @@
     <Compile Include="Models\Articles\Article.cs" />
     <Compile Include="Models\Articles\GroupArticleResponse.cs" />
     <Compile Include="Models\Articles\IndividualArticleResponse.cs" />
+    <Compile Include="Models\Articles\SearchArticleResponse.cs" />
     <Compile Include="Models\Categories\Category.cs" />
     <Compile Include="Models\Categories\GroupCategoryResponse.cs" />
     <Compile Include="Models\Categories\IndividualCategoryResponse.cs" />
